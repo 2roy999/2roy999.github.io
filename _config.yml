@@ -119,6 +119,7 @@ exclude:
   - vendor
 keep_files:
   - CNAME
+  - .htaccess
   - .nojekyll
   - .git
 
